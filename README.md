@@ -1,6 +1,7 @@
 # portfolio
 Simple frontend portfolio website using HTML CSS and JS
 
+entry point: index.html
 
 Components used: 
 1. icons: https://iconscout.com/unicons
